@@ -12,3 +12,4 @@ Create a program that asks a user for their name and then gives them the total n
 
 `There are 10 letters in your Name!`
 
+All The Best! 🤜
