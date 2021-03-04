@@ -1,6 +1,6 @@
 # 🚨 Don't change the code below 👇
 num_1 = input("Number 1: ")
-num_@ = input("Number 2: ")
+num_2 = input("Number 2: ")
 # 🚨 Don't change the code above 👆
 
 #Write your code below this line 👇
