@@ -1,5 +1,5 @@
 # 🎯💻 100 Days of Python!🏆🏅
-![100-Days-of-Python](https://socialify.git.ci/LearnEarn-Fun/100-Days-of-Python/image?description=1&descriptionEditable=Master%20Python%20by%20building%20100%20projects%20in%20100%20days.%20Learn%20to%20build%20websites%2C%20games%2C%20apps%2C%20plus%20scraping%20and%20data%20science%0A&font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
+![100-Days-of-Python](https://socialify.git.ci/LearnEarn-Fun/100-Days-of-Python/image?description=1&font=KoHo&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fhridaya423%2FImages-for-External-Sources1%2Fmain%2FTransparent.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 This repository contains all the coding excerises, For the 100 Days of Python Course <br><br>
  ![GitHub forks](https://img.shields.io/github/forks/LearnEarn-Fun/100-Days-of-Python?style=for-the-badge)
  ![GitHub Repo stars](https://img.shields.io/github/stars/LearnEarn-Fun/100-Days-of-Python?style=for-the-badge)
