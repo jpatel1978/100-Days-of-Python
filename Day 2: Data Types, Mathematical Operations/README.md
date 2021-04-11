@@ -4,3 +4,4 @@
 2. Quiz: Mathematical Operations 
 3. Coding Excerise: BMI Calculator
 4. Coding Excerise: Life In Weeks
+5. Day 2 Project: Donation Calculator
