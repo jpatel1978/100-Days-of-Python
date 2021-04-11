@@ -18,4 +18,7 @@ logo = """
                                                                                                     
 """
 
+print(welcome)
+print(logo)
+
 year = int(input("Which year do you want to check? "))
