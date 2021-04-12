@@ -1,4 +1,4 @@
-## Adding Evens
+## Adding All Evens till 100!
 
 # Instructions
 
